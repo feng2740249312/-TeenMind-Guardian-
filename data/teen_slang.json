@@ -1,0 +1,29 @@
+{
+  "depression": {
+    "slang_words": ["emo了", "破防了", "麻了", "摆烂", "躺平"],
+    "standard_mapping": {
+      "emo了": "情绪低落",
+      "破防了": "心理防线崩溃",
+      "麻了": "感到麻木",
+      "摆烂": "自暴自弃",
+      "躺平": "放弃努力"
+    }
+  },
+  "anxiety": {
+    "slang_words": ["社恐", "害怕", "焦虑"],
+    "standard_mapping": {
+      "社恐": "社交恐惧"
+    }
+  },
+  "suicidal_tendency": {
+    "slang_words": ["想死", "不想活了", "解脱"],
+    "high_risk_keywords": ["自杀", "想死", "不想活", "结束生命"],
+    "standard_mapping": {
+      "解脱": "想要结束痛苦"
+    }
+  },
+  "positive": {
+    "slang_words": ["开心", "快乐", "yyds"],
+    "standard_mapping": {"yyds": "很好"}
+  }
+}

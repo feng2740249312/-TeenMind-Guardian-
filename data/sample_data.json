@@ -1,0 +1,10 @@
+{
+  "sample_users": [
+    {"user_id": "user_001", "username": "测试用户1", "age": 16, "gender": "male"},
+    {"user_id": "user_002", "username": "测试用户2", "age": 17, "gender": "female"}
+  ],
+  "sample_comments": [
+    {"id": 1, "user_id": "user_001", "content": "又失眠了，好累", "platform": "netease"},
+    {"id": 2, "user_id": "user_002", "content": "今天心情不错", "platform": "qzone"}
+  ]
+}

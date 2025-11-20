@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "song_id": "347230",
+    "name": "消愁",
+    "artist": "毛不易",
+    "risk_score": 85,
+    "valence": -0.7,
+    "tags": ["伤感", "民谣"]
+  },
+  {
+    "id": 2,
+    "song_id": "536099160",
+    "name": "像我这样的人",
+    "artist": "毛不易",
+    "risk_score": 80,
+    "valence": -0.6,
+    "tags": ["孤独", "民谣"]
+  },
+  {
+    "id": 3,
+    "song_id": "1382596189",
+    "name": "无人之岛",
+    "artist": "任然",
+    "risk_score": 75,
+    "valence": -0.65,
+    "tags": ["孤独", "伤感"]
+  },
+  {
+    "id": 4,
+    "song_id": "29722582",
+    "name": "演员",
+    "artist": "薛之谦",
+    "risk_score": 70,
+    "valence": -0.5,
+    "tags": ["伤感", "失恋"]
+  },
+  {
+    "id": 5,
+    "song_id": "1404885266",
+    "name": "世界这么大还是遇见你",
+    "artist": "程响",
+    "risk_score": 65,
+    "valence": -0.4,
+    "tags": ["伤感"]
+  }
+]
