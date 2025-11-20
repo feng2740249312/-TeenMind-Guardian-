@@ -1,0 +1,16 @@
+flask
+transformers
+torch
+scikit-learn
+pandas
+numpy
+requests
+beautifulsoup4
+python-dotenv
+gunicorn
+redis
+celery
+pillow
+sqlalchemy
+psycopg2-binary
+pytest
